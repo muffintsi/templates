@@ -12,3 +12,4 @@ category: bulb
 type: RGBCCT
 standard: gu10
 ---
+To set correct color maping: SetOption37 30
